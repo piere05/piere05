@@ -37,14 +37,6 @@
 - 🧑‍⚕️ Doctor-Patient Web App *(In Progress)* – A web portal for medical consultations
 - 📅 Timetable Generator – Smart timetable with class constraints using core PHP *(Private)*
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piere2004amal&show_icons=true&theme=radical" alt="Piere's GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piere2004amal&theme=radical" alt="GitHub streak" width="48%"/>
-</p>
 
 ---
 
